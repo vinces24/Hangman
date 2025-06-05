@@ -1,1 +1,1 @@
-Fully functional hangman game based on PyGame
+Purely self-developed hangman game based on PyGame, a python library. Used public data to collect most common words in english language and thus randomly choose a word for the game. Forced to use file parsing and writing.
